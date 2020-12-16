@@ -1,0 +1,23 @@
+Nilai Kelulusan
+
+Algoritma:
+1. Masukkan nilai
+2. Apakah nilai lebih dari sama dengan 70?
+3. Jika nilai lebih dari 70 maka dianggap lulus
+4. Jika nilai kurang dari 70 maka dianggap tidak lulus
+5. Ingin mengulang?
+6. Jika ya maka mengulang
+7. Jika tidak maka tidak lulus
+
+Pseudocode:
+1. Input nilai
+2. IF nilai >= 70 
+3. THEN write "Lulus"
+4. ELSE write "Tidak Lulus"
+6. Input mengulang
+7. IF mengulang == ya 
+8. THEN mengulang
+9. ELSE tidak lulus
+
+Flowchart :
+https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=NILAI_KELULUSAN.drawio#R7VrbctowEP0aHsP4HvxIboSEMmmBpHnqqFjYbmWLyCJAv74Sli0LJRTSgpMOPDDe9Wotrc7ZXQsa9nmy6BAwjT7hAKKGZQSLhn3RsCzfbLFvrljmCrtl54qQxEGuMqViEP%2BCQmkI7SwOYKYYUowRjaeqcozTFI6pogOE4LlqNsFIfeoUhFBTDMYA6dqHOKBRrm1Zp1J%2FDeMwKp5sen5%2BJwGFsVhJFoEAzysq%2B7JhnxOMaX6VLM4h4rEr4vLQXT6g3k%2Bvc%2FM5ewKjs9th%2F%2F4kd3a1y5ByCQSm9M2uZzdfPnd86FjOfXiNkvOni6BzUuxuRpdFwGDA4idETGiEQ5wCdCm1ZwTP0gBytwaTpE0P4ylTmkz5A1K6FGAAM4qZKqIJEnfhIqZf%2BfCmK6THyp2LhfC8EpYV4Q6SOIEUEqHL584nvLbXfwiUsMvwjIzhpugIvAISQrrBzirRwFgEMZsiWbJxBCJA42d1ckDgOSzt5J6xC7Ftu2xh7vcZoJl40mDY%2FjLU9jWjBP8sOWCpO8KwPeV2ySLkWaA5QXg%2BjgChzYytnn7jNvMopnAwBauQzZlZuQPPkFC4eMMe6DETXqxTQTqRdUxPyHPJYdMQuqjCX8fYU5g%2FDlFSttzKIC4%2BVu%2FJYSupGLdvMllbksmuk0yWRqZu%2F27EyGT0u712VyeV4A2LEkAIIszok6xRS%2BPdtJLGlIGV%2FPYi2ySeuGNAxgI4Jvea5ddG07L3SUxHJWYpV4npvUBMb1%2FENPU9e2zXSVazQlVJ3I9FVntLsvobwWI0bfZRE7mAwdZ0Fs7vcMwWJk3wZJKxma2Dp5zDX%2BDJ1vA07F60b4%2F5%2FzCQcjZC6oTlN8Nw1Rz0l5gSrm2jpbh11lNWvkQxSgKvTQhYVsym3CDb8BxLTaGuoTTu7CL3eHDk68AXRY%2FNzwMJr0Ah5Ujh94yiQ6swgkQ4%2BT7LXqlearuZv0px4E1wSq9AEiMej2uIniGNx0DcqFY4gOIwZcKYAXJVI9XSunLMHhmnIZM8KQ1XbGPAOly%2Fattb9qutvZVF56MkrH0nHmfLxOPW2Xg6rzaeny77nVGv3e8cm0%2FLVBO%2F4%2BssKzuMwzSf%2Btt3vc2n0XhL86n0CbJtqKlTcLck7CvHLrJTMEzD%2Fwedwq4F3lwrBp69djL3B%2FuimNTeEJinxxqyGyRNr84i4mrJ6KZ721ZrCO%2Flnmb8zPqMZ6ri%2BtjLySpjqVXGfaHKmP4he7liYe%2Bfh2VJMXcrKSvp0Mf7%2FrakfuWU4zCk9jVS90a90eDYDTprR5GuW%2FdRpKW%2FEr93nu54SFQLT%2FOi%2Bu6JWkxTPzg0jozNK%2BsaY0%2Btuhlr6tn1P%2Fz1tPVSnP%2FRr6dMlH%2BByF885P9I7Mvf
